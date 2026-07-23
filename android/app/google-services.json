@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375495246145",
+    "project_id": "madar-d56bb",
+    "storage_bucket": "madar-d56bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375495246145:android:1329c3b3cefe05361b21c0",
+        "android_client_info": {
+          "package_name": "com.example.madar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNcon1_GcqQ6O_dOHpwIFg2KxsfcO0PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375495246145:android:8a637a792aae8cf31b21c0",
+        "android_client_info": {
+          "package_name": "com.mycompany.madar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNcon1_GcqQ6O_dOHpwIFg2KxsfcO0PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
